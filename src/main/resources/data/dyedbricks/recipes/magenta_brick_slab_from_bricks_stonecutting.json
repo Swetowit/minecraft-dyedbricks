@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "dyedbricks:magenta_bricks"
+    },
+    "result": "dyedbricks:magenta_brick_slab",
+    "count": 2
+}

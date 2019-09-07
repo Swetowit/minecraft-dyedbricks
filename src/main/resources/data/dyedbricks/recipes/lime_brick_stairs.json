@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "dyedbricks:lime_bricks"
+        }
+    },
+    "result": {
+        "item": "dyedbricks:lime_brick_stairs",
+        "count": 4
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "dyedbricks:magenta_bricks"
+        }
+    },
+    "result": {
+        "item": "dyedbricks:magenta_brick_slab",
+        "count": 6
+    }
+}

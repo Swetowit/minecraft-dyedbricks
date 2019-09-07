@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "dyedbricks:green_bricks"
+        }
+    },
+    "result": {
+        "item": "dyedbricks:green_brick_wall",
+        "count": 6
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom": {
+            "model": "dyedbricks:block/light_blue_brick_slab"
+        },
+        "type=top": {
+            "model": "dyedbricks:block/light_blue_brick_slab_top"
+        },
+        "type=double": {
+            "model": "dyedbricks:block/light_blue_bricks"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "dyedbricks:black_bricks"
+        }
+    },
+    "result": {
+        "item": "dyedbricks:black_brick_stairs",
+        "count": 4
+    }
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "swetowit.dyedbricks",
+  "version": "${version}",
+
+  "name": "Fancy Bricks",
+  "description": "This mod retextures the vanilla bricks and implements 16 dyed variants.",
+  "authors": [
+    "Swetowit"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": "https://github.com/Swetowit/minecraft-dyedbricks"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.swetowit.dyedbricks.DyedBricks"
+    ]
+  },
+  "mixins": [
+    "modid.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

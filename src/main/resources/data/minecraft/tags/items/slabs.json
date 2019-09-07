@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "dyedbricks:white_brick_slab",
+    "dyedbricks:light_gray_brick_slab",
+    "dyedbricks:gray_brick_slab",
+    "dyedbricks:black_brick_slab",
+    "dyedbricks:blue_brick_slab",
+    "dyedbricks:light_blue_brick_slab",
+    "dyedbricks:cyan_brick_slab",
+    "dyedbricks:green_brick_slab",
+    "dyedbricks:lime_brick_slab",
+    "dyedbricks:brown_brick_slab",
+    "dyedbricks:magenta_brick_slab",
+    "dyedbricks:pink_brick_slab",
+    "dyedbricks:purple_brick_slab",
+    "dyedbricks:orange_brick_slab",
+    "dyedbricks:red_brick_slab",
+    "dyedbricks:yellow_brick_slab"
+  ]
+}

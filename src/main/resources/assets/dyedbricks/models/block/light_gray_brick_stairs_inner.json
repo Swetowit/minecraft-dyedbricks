@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "dyedbricks:block/light_gray_bricks",
+        "top": "dyedbricks:block/light_gray_bricks",
+        "side": "dyedbricks:block/light_gray_bricks"
+    }
+}

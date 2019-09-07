@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "dyedbricks:brown_bricks"
+    },
+    "result": "dyedbricks:brown_brick_slab",
+    "count": 2
+}

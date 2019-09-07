@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab_top",
+    "textures": {
+        "bottom": "dyedbricks:block/yellow_bricks",
+        "top": "dyedbricks:block/yellow_bricks",
+        "side": "dyedbricks:block/yellow_bricks"
+    }
+}

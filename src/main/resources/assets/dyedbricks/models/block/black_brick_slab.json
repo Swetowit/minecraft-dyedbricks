@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "dyedbricks:block/black_bricks",
+        "top": "dyedbricks:block/black_bricks",
+        "side": "dyedbricks:block/black_bricks"
+    }
+}

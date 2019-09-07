@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom": {
+            "model": "dyedbricks:block/purple_brick_slab"
+        },
+        "type=top": {
+            "model": "dyedbricks:block/purple_brick_slab_top"
+        },
+        "type=double": {
+            "model": "dyedbricks:block/purple_bricks"
+        }
+    }
+}

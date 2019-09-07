@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "dyedbricks:white_brick_stairs",
+    "dyedbricks:light_gray_brick_stairs",
+    "dyedbricks:gray_brick_stairs",
+    "dyedbricks:black_brick_stairs",
+    "dyedbricks:blue_brick_stairs",
+    "dyedbricks:light_blue_brick_stairs",
+    "dyedbricks:cyan_brick_stairs",
+    "dyedbricks:green_brick_stairs",
+    "dyedbricks:lime_brick_stairs",
+    "dyedbricks:brown_brick_stairs",
+    "dyedbricks:magenta_brick_stairs",
+    "dyedbricks:pink_brick_stairs",
+    "dyedbricks:purple_brick_stairs",
+    "dyedbricks:orange_brick_stairs",
+    "dyedbricks:red_brick_stairs",
+    "dyedbricks:yellow_brick_stairs"
+  ]
+}

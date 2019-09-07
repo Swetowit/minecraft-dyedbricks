@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "dyedbricks:block/pink_bricks",
+        "top": "dyedbricks:block/pink_bricks",
+        "side": "dyedbricks:block/pink_bricks"
+    }
+}

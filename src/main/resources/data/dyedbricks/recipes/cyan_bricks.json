@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "dyedbricks:cyan_brick"
+        }
+    },
+    "result": {
+        "item": "dyedbricks:cyan_bricks"
+    }
+}
